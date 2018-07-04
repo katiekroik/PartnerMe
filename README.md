@@ -6,4 +6,3 @@ I think that sometimes, I struggle to find ideas to work on / contribute to and 
 Language | Idea | Is Done
 --- | --- | ---
 MD | Have a place where devs can find other projects | Y
-1 | 2 | 3
